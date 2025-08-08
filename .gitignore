@@ -3,6 +3,10 @@
 # dependencies
 /frontend/node_modules
 /backend/payment-service/node_modules
+/backend/order-service/node_modules
+/backend/analytic-service/node_modules
+/backend/kafka/node_modules
+/backend/email-service/node_modules
 
 
 
